@@ -47,7 +47,7 @@ menu: #菜单路径设置 如果hexo在二级目录放置要去掉/
   home: /
   archives: /archives #归档
   tags: /tags #标签
-  categories: /categories  #分类
+  #categories: /categories  #分类
   about: /about #关于我
   #commonweal: /404.html  #公益404
 
