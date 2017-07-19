@@ -15,7 +15,9 @@ def setPosts(id, title, date, updated, tags, content):
     # f.write('comments: true' + '\n')
     f.write('tags: ["' + tags + '"]\n')
     f.write('---\n')
+    f.write('{% raw %}\n')
     f.write(content + '\n')
+    f.write('{% endraw %}\n')
 
 
 def getPosts():
