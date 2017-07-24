@@ -9,14 +9,14 @@ def setPosts(id, title, date, updated, tags, content):
     base_path = base_path + "/source/_posts/"
     f = open(base_path + str(id) + '.md', 'w')
     f.write('---\n')
-    f.write('title: "' + title + '"\n')
+    f.write('title: "' + str(title) + '"\n')
     f.write('date: ' + str(date) + '\n')
     f.write('updated: ' + str(updated) + '\n')
     # f.write('comments: true' + '\n')
-    f.write('tags: ["' + tags + '"]\n')
+    f.write('tags: ["' + str(tags) + '"]\n')
     f.write('---\n')
     f.write('{% raw %}\n')
-    f.write(content + '\n')
+    f.write(str(content) + '\n')
     f.write('{% endraw %}\n')
 
 
@@ -31,7 +31,7 @@ def getPosts():
         )
         cur = conn.cursor()
         cur.execute('SET NAMES UTF8')
-        sql = "SELECT tasks.id,tasks.title,tasks.end_at,tasks.updated_at,group_concat(DISTINCT tags.topic SEPARATOR '\",\"') as tags,tasks.content FROM tasks INNER JOIN task_tags ON task_tags.task_id = tasks.id INNER JOIN tags ON task_tags.tag_id = tags.id WHERE tasks.deleted_at is NULL and tasks.price > 0 and tasks.user_id=9 GROUP BY tasks.id"
+        sql = "SELECT tasks.id,tasks.title,tasks.end_at,tasks.updated_at,group_concat(DISTINCT tags.topic SEPARATOR '\",\"') as tags,tasks.content FROM tasks LEFT JOIN task_tags ON task_tags.task_id = tasks.id LEFT JOIN tags ON task_tags.tag_id = tags.id WHERE tasks.deleted_at is NULL and tasks.price > 0 and tasks.user_id=9 GROUP BY tasks.id"
         cur.execute(sql)
         posts = cur.fetchall()
         # print(posts)
