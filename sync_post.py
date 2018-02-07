@@ -23,7 +23,7 @@ def setPosts(id, title, date, updated, tags, content):
 def getPosts():
     try:
         conn = MySQLdb.connect(
-                host='10.1.134.221',
+                host='10.1.XX.XX',
                 port=3306,
                 user='root',
                 passwd='gta@2015',
