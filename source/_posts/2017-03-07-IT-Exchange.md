@@ -1,5 +1,5 @@
 ---
-title: "*Exchange 2010高可用部署"
+title: "Exchange 2010高可用部署"
 date: 2017-03-07 08:00:00
 updated: 2017-03-15 09:14:33
 tags: ["开发"]
