@@ -11,8 +11,6 @@ tags: ["MySQL"]
 
 ![blob.png](/uploads/ueditor/php/upload/image/20170322/1490171892.png)
 
-  
-
 ![blob.png](/uploads/ueditor/php/upload/image/20170322/1490171918.png)
 
 ![blob.png](/uploads/ueditor/php/upload/image/20170322/1490171957.png)
