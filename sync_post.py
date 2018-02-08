@@ -1,13 +1,18 @@
+# -*- coding: utf-8 -*-
 import MySQLdb
 import os
 import os.path
 import sys
+import time
+import html2text
+reload(sys)
+sys.setdefaultencoding("utf-8")
 
 
 def setPosts(id, title, date, updated, tags, content):
     base_path = os.path.split(os.path.realpath(sys.argv[0]))[0]
     base_path = base_path + "/source/_posts/"
-    f = open(base_path + str(id) + '.md', 'w')
+    f = open(base_path + str(date.strftime("%Y-%m-%d-")) + str(id) + '.md', 'w')
     f.write('---\n')
     f.write('title: "' + str(title) + '"\n')
     f.write('date: ' + str(date) + '\n')
@@ -15,15 +20,16 @@ def setPosts(id, title, date, updated, tags, content):
     # f.write('comments: true' + '\n')
     f.write('tags: ["' + str(tags) + '"]\n')
     f.write('---\n')
-    f.write('{% raw %}\n')
-    f.write(str(content) + '\n')
-    f.write('{% endraw %}\n')
+    #f.write('{% raw %}\n')
+    f.write(html2text.html2text(content.decode().encode('utf-8')))
+    #f.write(html2text.html2text(unicode(str(content), "utf-8")))
+    #f.write('{% endraw %}\n')
 
 
 def getPosts():
     try:
         conn = MySQLdb.connect(
-                host='10.1.XX.XX',
+                host='10.1.134.221',
                 port=3306,
                 user='root',
                 passwd='gta@2015',

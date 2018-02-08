@@ -2,9 +2,9 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 # Site 网站
-title: Coding Love & Ego integrity 
+title: Love Coding & Integrity 
 #网站标题
-subtitle: 为自我完善的意愿编码人生, 以爱促进自我和他人的心智成熟
+subtitle: 分享&自我完善, 爱&心智成熟
 #网站副标题
 description: 为自我完善的意愿编码人生, 以爱促进自我和他人的心智成熟
 #网站描述
@@ -18,7 +18,7 @@ timezone: Asia/Shanghai
 # URL 网址
 ## 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，则请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
 url: http://blog.todo4team.net
-permalink: post/:year-:month-:day-:title/
+permalink: /:title/
 #生成文件名字的格式我改成blog/:title:year:month:day/
 permalink_defaults:
 
