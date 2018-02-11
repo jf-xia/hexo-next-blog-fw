@@ -14,7 +14,7 @@ tags: ["读书","社会"]
 - 才能——以8/2的比例来投入专业领域和扩展领域，把个人作为最小可行产品。
 - 成功——找到自己的独特性。
 
- [Improvement.png](/uploads/mindMap/Improvement.png)
+![Improvement.png](/uploads/mindMap/Improvement.png)
 
 目录
 第一章	时间之尺
