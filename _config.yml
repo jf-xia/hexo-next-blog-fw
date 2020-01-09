@@ -2,11 +2,11 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 # Site 网站
-title: Love Coding & Integrity 
+title: Jack Xia 
 #网站标题
-subtitle: 分享&自我完善, 爱&心智成熟
+subtitle: 笔记
 #网站副标题
-description: 为自我完善的意愿编码人生, 以爱促进自我和他人的心智成熟
+description: MIS, Gamification, Education
 #网站描述
 author: Jack Xia
 #您的名字
@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 
 # URL 网址
 ## 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，则请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
-url: http://blog.todo4team.net
+url: http://blog.toob.net.cn
 permalink: /:title/
 #生成文件名字的格式我改成blog/:title:year:month:day/
 permalink_defaults:
@@ -122,6 +122,6 @@ theme: next
 deploy:
   type: git
   repo: #git@github.com:Jianfengxia/Jianfengxia.github.io.git,master
-    github: git@github.com:Jianfengxia/Jianfengxia.github.io.git,master
+    github: git@github.com:v-reap/v-reap.github.io.git,master
     #coding: git://git.coding.net/JianfengXia/JianfengXia.git,master
   branch: master
