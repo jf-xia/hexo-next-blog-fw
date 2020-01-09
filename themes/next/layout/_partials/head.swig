@@ -96,6 +96,7 @@
   <meta property="fb:app_id" content="{{ theme.facebook_sdk.app_id }}" />
 {% endif %}
 
+link(rel="stylesheet", href=url_for("https://cdn.bootcss.com/mermaid/6.0.0/mermaid.min.css"))
 
 {{
   open_graph({
