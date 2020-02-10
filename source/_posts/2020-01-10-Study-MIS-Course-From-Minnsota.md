@@ -51,8 +51,6 @@ MATH 5652 - Introduction to Stochastic Processes (4.0 cr)
 MGMT 1001 - Contemporary Management (3.0 cr)
 > essentials-of-contemporary-management.pdf
 
-
-
 ### Corporate Responsibility
 
 MGMT 1005 - Corporate Responsibility and Ethics [CIV] (3.0 cr)
@@ -79,6 +77,67 @@ Research Areas in Psychology
 8. Educational psychology
 9. Healthy psychology
 
+### Leadership
+
+1. Different approaches of leadership
+   1. Focus of group processes - embodies the will of the group
+   2. Personality perspective - a combination of spectal traits
+   3. An act or a behaviour - bring about change in a group
+   4. Power relationship - wield to effect change in others
+   5. Transformational process - move followers to accomplish more than is usually expected from them
+   6. Skills perspective - stress the capabilities
+2. assigned leadership & emergent leadership
+   1. 5 common and important bases of power: Referent, Expert, Legitimate, Reward, Coercive
+   2. 2 major kinds of power: Personal power & Position power
+3. Trait approach
+   1. traits: Intelligence, Self-confidence, Determination, Integrity, Sociability
+   2. Big five personality:
+      1. Neuroticism > be depressed, anxious, insecure, vulnerable and hostile
+      2. Extraversion > be sociable and assertive and to have positive energy
+      3. Openness > be informed, creative, insightful, and curious
+      4. Agreeableness > be accepting, conforming, trusting, and nurturing
+      5. Conscientiousness > be thorough, organized, controlled, dependable and decisive
+4. Skills approach
+   1. addressing leadership as 3 developable skills
+      1. Technical skill - deal with things
+      2. Human skill - deal with people
+      3. Conceptual skill - deal with ideas to creating a vision and strategic plan for org.
+   2. 5 components of skill-based model
+      1. Competencies
+         1. Problem-solving skills
+         2. Social judgment skills
+            1. Perspective taking
+            2. Social perceptiveness
+            3. Behavioural flexibility
+            4. Social performance
+         3. Knowledge
+      2. Individual attributes
+         1. General cognitive ability
+         2. Crystallized cognitive ability
+         3. Motivation
+         4. Personality
+      3. Leadership outcomes
+         1. Effective problem solving
+         2. Performance
+      4. Career experience
+      5. Environmental influences
+5. Style approach
+   1. Concern for results
+      1. Task behaviour
+      2. Initiating structure
+      3. Production orientation
+   2. Concern for people
+      1. Relationship behaviour
+      2. Consideration
+      3. Employee orientation
+   3. concern for production & people in a model
+      1. Authority-compliance (9,1)
+      2. Country-club management (1,9)
+      3. Impoverished management (1,1)
+      4. Middle-of-the-road management (5,5)
+      5. Team management (9,9)
+6. Contingency theory
+
 ### Career Skills
 
 BA 3000 - Career Skills (1.0 cr)
@@ -89,13 +148,13 @@ BA 3000 - Career Skills (1.0 cr)
 
 > operations-management-lecture-notes-lectures-1-11.pdf
 
-Operations management is relevant to all parts of the business. It has 5 objective: quality, Speed, Dependability, Flexibility, Cost. 
+Operations management is relevant to all parts of the business. It has 5 objective: quality, Speed, Dependability, Flexibility, Cost.
 
 Differents: Operations strategy is long-term, Macro, Aggregated and Philosophical, and it should be appropriate, comprehensive, coherent, Consistent over time.
 
-Process design and product/service design are interrelated. Design helps businesses connect strongly with their customers by anticipating their real needs. 
+Process design and product/service design are interrelated. Design helps businesses connect strongly with their customers by anticipating their real needs.
 
-Supply network design. 
+Supply network design.
 
 Fixed-position layout, Functional layout, Cell layout and Product layout.
 
@@ -453,7 +512,65 @@ MKTG 3001 - Principles of Marketing (3.0 cr)
     2. Public relations and its role and impact
     3. Major public relations tools - news, special events, written materials, audio-visual materials, corporate identity materials, public services activities
 16. Personal selling and sales promotion
-
+17. Direct and online marketing
+    1. Model, growth, benefits, customer databases of direct marketing (geographic, demographic, psychographic and behavioural data)
+    2. Forms of direct marketing
+    3. Online marketing
+    4. Setting up online marketing presence
+       1. Creating web sites
+       2. Placing ads (advertising) and promotions online (e.g. Viral marketing)
+       3. Creating or participating in online social networks
+       4. Sending e-mail
+       5. Using mobile marketing
+       6. Public policy issues in direct marketing
+          1. Irritation, unfairness, deception, and fraud
+          2. Consumer privacy
+          3. Need for action
+18. Creating competitive advantage
+    1. Competitor analysis
+       1. Identifying competitors
+       2. Assessing competitors
+          1. Determining competitors’ objectives
+          2. Identifying competitors’ strategies
+          3. Assessing competitors’ strengths and weaknesses
+          4. Estimating competitors’ reactions
+       3. Selecting which competitors to attack and avoid
+    2. Completive marketing strategies
+       1. 3 stages Approaches to marketing strategy
+          1. Entrepreneurial marketing
+          2. Formulated marketing
+          3. Intrepreneurial marketing
+       2. Basic competitive strategies
+          1. Cost leadership
+          2. Differentiation
+          3. Focus strategy
+       3. superior customer value
+          1. Operational excellence
+          2. Customer intimacy
+          3. Product leadership
+       4. Competitive positions
+          1. Market leader
+          2. Market challenger
+          3. Market follower
+          4. Market niches
+       5. Balancing customer and competitor orientation
+19. Global marketplace
+    1. Effects of international trade system and environments on company’s international marketing decisions
+       1. Looking at the global marketing environment
+       2. Economic environment
+       3. Political and legal environment
+       4. Cultural environment
+       5. Deciding whether to go global
+       6. Deciding which markets to enter
+    2. Deciding how to enter the market
+    3. Deciding on the global marketing programe
+    4. Deciding on the global marketing organization
+20. Sustainable marketing
+    1. Sustainable marketing
+    2. Social criticisms of marketing
+    3. Consumer actions to promote sustainable marketing
+    4. Business actions toward sustainable marketing
+    5. Marketing ethics and sustainable companies
 
 ## Additional Core Requirements
 
@@ -486,10 +603,37 @@ Systematic Training and Development model
 ### Managerial Accounting
 
 ACCT 3001 - Introduction to Management Accounting (3.0 cr)
+> introduction-to-management-accounting-notes-lecture-notes.pdf
+
+1. Distinction between financial accounting and management accounting
+2. Cost accounting vs cost management
+3. Role of a management accounting
+   1. Planning
+   2. Controlling
+   3. Organising
+   4. Communicating
+   5. Motivating
+   6. Decision making
+4. ABC costing and management
+5. Life cycle costing
+6. Strategic management accounting
+7. Cost accumulation and classification
+8. Cost volume profit (CVP) analysis
 
 ### Business Communication
 
 MGMT 3033W - Business Communication [WI] (3.0 cr)
+> business-communication.pdf
+
+1. Getting the Message Across
+2. Planning and Writing Business Messages
+3. Word Choice, Conciseness and Tone
+4. Business Style
+5. Memorandums, E-mail, and Routine Message
+6. Routine and Goodwill Messages
+7. Delivering Unfavourable News
+8. Persuasive Messages
+9. Communicating for Employment
 
 ## Major Courses
 
