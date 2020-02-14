@@ -11,13 +11,33 @@ tags: ["Notes","Study"]
 
 ECON 1101 - Principles of Microeconomics [SOCS, GP] (4.0 cr)
 
+> principle-of-microeconomics-note-lecture.pdf
+
+1. Economic of Life - Choice and rational behavior
+   1. Microeconomics: study of choices individuals and firms make and the implications of these choices
+   2. Macroeconomics: study of the economy on a regional, national, or international scale
+   3. 4 main questions for decisions
+      1. Scarcity - wants vs. constraints
+      2. Opportunity cost
+         1. tradeoffs between costs and benefits
+         2. Rule of thumb: choose the activity with lowest opportunity cost and greatest benefit
+         3. Marginal decisions - sunk costs
+      3. Incentives
+      4. Efficiency - Innovation, Market failure, Intervention, Goals other than profit
+   4. Correlation and causation
+      1. Correlation without causation
+      2. Omitted variable
+      3. Reverse causation
+2. Production Possibility
+   1. Production Possibilities Frontier (PPF)
+   2. Opportunity costs - O.C. = Give up / gain
+   3. Convex PPFs
+
 ### Macroeconomics
 
 ECON 1102 - Principles of Macroeconomics (4.0 cr)
 
-### Calculus
-
-MATH 1142 - Short Calculus [MATH] (4.0 cr)
+### Calculus [MATH]
 
 ### Accounting
 
@@ -27,33 +47,45 @@ ACCT 2050 - Introduction to Financial Reporting (4.0 cr)
 
 ### Statistics
 
-SCO 2550 - Business Statistics: Data Sources, Presentation, and Analysis (4.0 cr)
-STAT 3011 - Introduction to Statistical Analysis [MATH] (4.0 cr)
-STAT 3021 - Introduction to Probability and Statistics (3.0 cr)
-STAT 3022 - Data Analysis (4.0 cr)
-PSY 3801 - Introduction to Psychological Measurement and Data Analysis [MATH] (4.0 cr)
-SOC 3811 - Social Statistics [MATH] (4.0 cr)
-IE 3521 - Statistics, Quality, and Reliability (4.0 cr)
-EE 3025 - Statistical Methods in Electrical and Computer Engineering (3.0 cr)
-CEGE 3102 - Uncertainty and Decision Analysis (3.0 cr)
-ANSC 3011 - Statistics for Animal Science (4.0 cr)
-STAT 4101 - Theory of Statistics I (4.0 cr)
-STAT 4102 - Theory of Statistics II (4.0 cr)
-STAT 5101 - Theory of Statistics I (4.0 cr)
-STAT 5102 - Introduction to Statistical Learning (4.0 cr)
-MATH 5651 - Basic Theory of Probability and Statistics (4.0 cr)
-MATH 5652 - Introduction to Stochastic Processes (4.0 cr)
+### Business Statistics: Data Sources, Presentation, and Analysis (4.0 cr)
+
+### Introduction to Statistical Analysis [MATH] (4.0 cr)
+
+### Introduction to Probability and Statistics (3.0 cr)
+
+### Data Analysis (4.0 cr)
+
+### Introduction to Psychological Measurement and Data Analysis [MATH] (4.0 cr)
+
+### Social Statistics [MATH] (4.0 cr)
+
+### Statistics, Quality, and Reliability (4.0 cr)
+
+### Statistical Methods in Electrical and Computer Engineering (3.0 cr)
+
+### Uncertainty and Decision Analysis (3.0 cr)
+
+### Statistics for Animal Science (4.0 cr)
+
+### Theory of Statistics I (4.0 cr)
+
+### Theory of Statistics II (4.0 cr)
+
+### Introduction to Statistical Learning (4.0 cr)
+
+### Basic Theory of Probability and Statistics (4.0 cr)
+
+### Introduction to Stochastic Processes (4.0 cr)
 
 ## Lower Division Requirements
 
 ### Management
 
-MGMT 1001 - Contemporary Management (3.0 cr)
+### Contemporary Management (3.0 cr)
+
 > essentials-of-contemporary-management.pdf
 
-### Corporate Responsibility
-
-MGMT 1005 - Corporate Responsibility and Ethics [CIV] (3.0 cr)
+### Corporate Responsibility and Ethics
 
 ### Psychology
 
@@ -232,8 +264,6 @@ Research Areas in Psychology
 
 ### Career Skills
 
-BA 3000 - Career Skills (1.0 cr)
-
 ## Immersion Core
 
 ### Operations management
@@ -288,51 +318,47 @@ Inputs to the process:
 
 ### Business Strategy
 
+> strategic-management-notes-lecture.pdf
 > strategic-management-ppt-slides.pdf
 > bsg-2017-business-strategy-game-guide-how-to-win-v2.pdf
 
-Competitive strategy is about being different. It means deliberately choosing a different set of activities to deliver a unique mix of value
+1. Competitive strategy is about being different. It means deliberately choosing a different set of activities to deliver a unique mix of value
+2. Mission statements and Vision statements
+3. Objectives: financial terms, market terms and social terms
+4. defined as:
+   1. the **direction** and **scope** of an organisation
+   2. over the **long term**
+   3. which achieves **advantage**
+   4. in a changing **environment**
+   5. through the configuration of **resources** & **competences**
+   6. with the ain to fulfil **stakeholder expectations**
+5. Sustained competitive advantage
+   1. calue creation strategy
+   2. not simultaneously being implemented by any competitors
+   3. other firms are unable to duplicate the benefits of this strategy
+6. understand an organisation’s purposes, taking into account stakeholder expectations
+   1. MICRO, EXTERNAL ANALYSIS - Porter’s five forces analysis - identify potential for change
+   2. MACRO, EXTERNAL ANALYSIS - PESTEL analysis - Identify key drivers of change
+   3. INTERNAL ANALYSIS - SWOT analysis - substitute for analysis
+7. Strategy, environment, capabilities and key stakeholders
+   1. Cost-leadership strategy
+   2. Differentiation strategy
+   3. Focus strategy
+8. The SAFe criteria:
+   1. Suitability - Examples page 107
+   2. Acceptability - Risk, Return, Reactions
+   3. Feasibility - Financial, People and Skills
+9. Comparing acquisitions, alliances and organic development
+10. The CAGE framework:
+    1. Cultural distance
+    2. Administrative and political distance
+    3. Geographic distance
+    4. Economic/ wealth distance
 
-external environment (OPPORTUNITIES & THREATS), to analyse an organisation’s position, the determinants  of strategic capability –resources, competences and the linkages between them. understand an organisation’s purposes, taking into account stakeholder expectations
+### Finance Fundamentals (3.0 cr)
 
-- Porter’s five forces analysis - identify potential for change
-- PESTEL analysis - Identify key drivers of change
-- Scenarios
-- Strategic groups
-- Strategic capabilities
-- Value chain
-- Cultural web
+### Principles of Marketing (3.0 cr)
 
-SWOT analysis - substitute for analysis
-
-Mission statements and Vision statements
-
-Objectives: financial terms, market terms and social terms
-
-Strategy, environment, capabilities and key stakeholders
-
-- Cost-leadership strategy
-- Differentiation strategy
-- Focus strategy
-
-The SAFe criteria:
-
-- Suitability - Examples page 107
-- Acceptability - Risk, Return, Reactions
-- Feasibility - Financial, People and Skills
-
-Comparing acquisitions, alliances and organic development
-
-The CAGE framework:
-
-- Cultural distance
-- Administrative and political distance
-- Geographic distance
-- Economic/ wealth distance
-
-FINA 3001 - Finance Fundamentals (3.0 cr)
-
-MKTG 3001 - Principles of Marketing (3.0 cr)
 > principles-of-marketing.pdf
 
 1. Marketing – creating and capturing value
@@ -670,6 +696,44 @@ MKTG 3001 - Principles of Marketing (3.0 cr)
 
 IDS 3001 - Introduction to Information Technology in Business (3.0 cr)
 
+> business-information-systems-lecture-notes.pdf
+
+1. MIS - intersection of people, technology, and processes
+2. Accept and store info; perform mathematical equations; apply logic to make decisions; retrieve, display, and send info; consistently repeat these actions
+3. Technology is a collection of tools that enable; enables strategy, business processes, problem solving and decision making
+   1. Business Strategy: According to Michael Porter strategy is – a broad based formula for how a business is going to compete, what its goals should be, and what plans and policies will be neededto carry out those goals
+   2. Porter’s Five Forces Model
+   3. Competitive Advantage = quality of insight + speed of execution + cost competitiveness
+   4. 3 aspects to create business value and competitive advantage
+      1. Automating
+      2. Informating
+      3. Transforming
+4. Value Chain
+   1. Inbound logistics
+   2. Operations
+   3. Outbound logistics
+   4. Marketing Sales
+   5. Service activities
+5. E-commerce
+6. business counts on its IS to deliver accurate data and information; it wants data in different forms and organized in different ways
+7. Business Intelligence
+   1. Data sourcing: mining data information
+   2. Data analysis: producing useful knowledge
+   3. Situation awareness
+   4. Risk assessment
+   5. Decision support
+8. Decision Support Systems
+   1. Tactical decisions: making informed decisions after conducting research
+   2. Operational decisions: analyzing operations and then making decisions based on performance
+   3. Strategic decisions: making a final decision to continue with a product or not, based on previous analyses.
+9. agile development - rational unified process (RUP)
+   1. Develop iteratively
+   2. manage requirement
+   3. use component architecture
+   4. model visually
+   5. verify quality
+   6. control changes
+
 ### Human Resources
 
 > human-resource-management-semester-notes-lecture-notes-lectures-1-12.pdf
@@ -729,26 +793,34 @@ MGMT 3033W - Business Communication [WI] (3.0 cr)
 
 ## Major Courses
 
-IDSC 3101 - Introduction to Programming (2.0 cr)
-IDSC 3102 - Intermediate Programming (2.0 cr)
-IDSC 3103 - Data Modeling and Databases (2.0 cr)
-IDSC 3104 - Enterprise Systems (2.0 cr)
-IDSC 3202 - Analysis and Modeling of Business Systems (4.0 cr)
-IDSC 4204W - Strategic Information Technology Management [WI] (4.0 cr)
-IDSC 4301 - MIS in Action: A Capstone Course (2.0 cr)
+### Introduction to Programming (2.0 cr)
 
-### Electives
+### Intermediate Programming (2.0 cr)
 
-IDSC 4401 - Information Security (2.0 cr)
-IDSC 4411 - Information Technology Governance and Assurance (2.0 cr)
-IDSC 4431 - Advanced Database Design (2.0 cr)
-IDSC 4441 - Electronic Commerce (2.0 cr)
-IDSC 4444 - Descriptive and Predictive Analytics (2.0 cr)
-IDSC 4455 - Web 2.0: The Business of Social Media (2.0 cr)
-IDSC 4471 - Agile Methods (2.0 cr)
-IDSC 4490 - Information Systems Special Topics (2.0 cr)
+### Data Modeling and Databases (2.0 cr)
 
-## Upper-division Writing Intensive within the major
+### Enterprise Systems (2.0 cr)
 
-IDSC 4204W - Strategic Information Technology Management [WI] (4.0 cr)
-MGMT 3033W - Business Communication [WI] (3.0 cr)
+### Analysis and Modeling of Business Systems (4.0 cr)
+
+### Strategic Information Technology Management [WI] (4.0 cr)
+
+### MIS in Action: A Capstone Course (2.0 cr)
+
+### Information Security (2.0 cr)
+
+### Information Technology Governance and Assurance (2.0 cr)
+
+### Advanced Database Design (2.0 cr)
+
+### Electronic Commerce (2.0 cr)
+
+### Descriptive and Predictive Analytics (2.0 cr)
+
+### Web 2.0: The Business of Social Media (2.0 cr)
+
+### Agile Methods (2.0 cr)
+
+### Information Systems Special Topics (2.0 cr)
+
+### Business Communication [WI] (3.0 cr)
