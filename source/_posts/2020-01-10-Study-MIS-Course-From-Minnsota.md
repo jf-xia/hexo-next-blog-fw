@@ -193,6 +193,8 @@ ECON 1101 - Principles of Microeconomics [SOCS, GP] (4.0 cr)
 
 ECON 1102 - Principles of Macroeconomics (4.0 cr)
 
+> business-economics-notes-lecture-1-10.pdf
+
 ### Calculus [MATH]
 
 ### Accounting
@@ -200,10 +202,84 @@ ECON 1102 - Principles of Macroeconomics (4.0 cr)
 ACCT 2050 - Introduction to Financial Reporting (4.0 cr)
 > fundamentals-of-corporate-finance.pdf
 > Financial-accounting-notes.pdf
+> management-accounting-notes-1-12.pdf
 
 ### Statistics
 
 ### Business Statistics: Data Sources, Presentation, and Analysis (4.0 cr)
+
+> business-statistics-course-summary.pdf
+
+1. Introduction to Stats, Data and Graphing Data
+   1. Nature of Data:
+      1. Qualitative: dealing with characteristics of objects – such as gender, grade, colour, country
+      2. Quantitative: dealing with numbers, numerical data. These numbers are usually arising from some sort of scale
+   2. Statistics has two branches
+      1. definitions: Population, Census, Sample
+      2. descriptive statistics - a group data to describe or reach conclusions about that same group
+      3. inferential statistics - a sample data to reach conclusions about the population from which the sample was taken
+   3. Data Measurement:
+      1. Nominal Data: used to categorise (Gender, Tel, Post code, etc)
+      2. Ordinal Data: e.g. rank performance of employees
+      3. Interval Data: e.g. Temperature – degrees Celsius
+      4. Retio Data: e.g. Sales, Time volume
+   4. Categorical vs. Numerical
+   5. Inferential Methods
+   6. Data Timing:
+      1. Cross Sectional
+      2. Time Series
+2. Charts and Graphs
+   1. Grouped Data: data that have been organised into a frequency distribution
+   2. Ungrouped Data: raw data, or data that have not been summarised
+   3. Frequency Distribution: a summary of data presented in the form of class intervals and frequencies
+   4. Range: the difference between the largest and the smallest values in a set of data
+   5. Relative Frequency = Individual frequency / Total frequency
+   6. Cumulative Frequency = Frequency Above + This Record’s Frequency
+3. Descriptive Statistics
+   1. Describing Measures of Location
+      1. Mean: average of data values
+      2. Median: middle observation of the ordered data
+      3. Mode: most frequent
+      4. Percentiles: data broken into groupings of 10% of ordered data in each group
+      5. Quartiles: data broken into 25% of ordered scores per group. Used for box & whisker plots
+   2. Notation:
+      1. i = observation number
+      2. n = sample size
+      3. ∑ = summation
+      4. x = variable
+      5. x1 = value of variable x at observation i
+   3. ...
+4. Probability
+   1. Classical Method
+   2. Relative Frequency of Occurrence Method
+   3. Subjective Probabilities
+   4. ...
+5. Discrete Probability Distributions
+   1. Discrete Distributions describe discrete random variables
+      1. Binomial distribution - like ‘success or failure’
+      2. Poisson distribution
+      3. Hypergeometric distribution
+   2. Continuous Distributions
+      1. Normal distribution
+      2. Uniform distribution
+      3. Exponential distribution
+      4. t distribution
+      5. chi-square distribution
+      6. F Distribution.
+6. Sampling and Sampling Distributions
+   1. Parameters & Population vs. Statistics and Samples
+   2. Random Sampling Techniques
+      1. Simple random sampling
+      2. Stratified random sampling
+      3. Systematic random sampling
+      4. Cluster (area) random sampling
+   3. Finite vs. Infinite Populations
+   4. Central Limit Theorem
+7. Statistical Inference: Interval Estimation for a Single Population
+8. Statistical Inference: Hypothesis Testing for Single Populations
+9. Statistical Inference: For Two Populations
+10. Simple Regression Analysis
+11. Multiple Regression Analysis 
 
 ### Introduction to Statistical Analysis [MATH] (4.0 cr)
 
@@ -220,6 +296,8 @@ ACCT 2050 - Introduction to Financial Reporting (4.0 cr)
 ### Statistical Methods in Electrical and Computer Engineering (3.0 cr)
 
 ### Uncertainty and Decision Analysis (3.0 cr)
+
+> data-driven-decision-making-notes.pdf
 
 ### Statistics for Animal Science (4.0 cr)
 
@@ -475,8 +553,12 @@ Inputs to the process:
 ### Business Strategy
 
 > strategic-management-notes-lecture.pdf
+> contemporary-strategy-analysis-1-16.pdf
+> strategic-management-chapter-1-9.pdf
 > strategic-management-ppt-slides.pdf
 > bsg-2017-business-strategy-game-guide-how-to-win-v2.pdf
+> an-introduction-to-game-theory.pdf
+> exploring-strategy-chapter-1-15.pdf
 
 1. Competitive strategy is about being different. It means deliberately choosing a different set of activities to deliver a unique mix of value
 2. Mission statements and Vision statements
@@ -853,6 +935,8 @@ Inputs to the process:
 IDS 3001 - Introduction to Information Technology in Business (3.0 cr)
 
 > business-information-systems-lecture-notes.pdf
+> management-of-information-systems-lecture-notes-mis-1.pdf
+> management-information-system-exams.pdf
 
 1. MIS - intersection of people, technology, and processes
 2. Accept and store info; perform mathematical equations; apply logic to make decisions; retrieve, display, and send info; consistently repeat these actions
@@ -951,13 +1035,21 @@ MGMT 3033W - Business Communication [WI] (3.0 cr)
 
 ### Introduction to Programming (2.0 cr)
 
+> data-communication-networks-lecture.pdf
+
 ### Intermediate Programming (2.0 cr)
 
 ### Data Modeling and Databases (2.0 cr)
 
 ### Enterprise Systems (2.0 cr)
 
+> enterprise-innovation-and-markets.pdf
+> enterprise-innovation-notes.pdf
+
 ### Analysis and Modeling of Business Systems (4.0 cr)
+
+> business-analytics.pdf
+> business-analytics-2017.pdf
 
 ### Strategic Information Technology Management [WI] (4.0 cr)
 
@@ -971,6 +1063,10 @@ MGMT 3033W - Business Communication [WI] (3.0 cr)
 
 ### Electronic Commerce (2.0 cr)
 
+> e-commerce-notes.pdf
+
+1. 
+
 ### Descriptive and Predictive Analytics (2.0 cr)
 
 ### Web 2.0: The Business of Social Media (2.0 cr)
@@ -978,5 +1074,3 @@ MGMT 3033W - Business Communication [WI] (3.0 cr)
 ### Agile Methods (2.0 cr)
 
 ### Information Systems Special Topics (2.0 cr)
-
-### Business Communication [WI] (3.0 cr)
