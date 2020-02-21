@@ -7,6 +7,8 @@ tags: ["Notes","Study"]
 
 Foster Provost and Tom Fawcett, Data Science for Business: What you need to know about data mining and data-analytic thinking, O'Reilly Media; 1 edition (August 16, 2013)
 
+1.
+
 * Understanding Data and the Data Mining Process
 * Exploring and Visualizing Data
 * Market Segmentation of Customers
