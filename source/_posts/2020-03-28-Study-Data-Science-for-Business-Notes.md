@@ -162,11 +162,17 @@ Foster Provost and Tom Fawcett, Data Science for Business: What you need to know
       2. Clustering Around Centroids - k-means clustering
       3. Using Supervised Learning to Generate Cluster Descriptions
       4. CRISP data mining process
-7. Decision Analytic Thinking I: What Is a GoodModel?
+7. Decision Analytic Thinking I: What Is a Good Model?
    1. Evaluating Classifiers
-   2. Classifier accuracy
-   3. Confusion Matrix
+      1. Classifier accuracy
+      2. Confusion Matrix
+   2. Generalizing Beyond Classification
+   3. A Key Analytical Framework: Expected Value
+      1. cost-benefit matrix
+      2. b(predicted, actual)
+   4. Evaluation, Baseline Performance, and Implications for Investments in Data
 8. Visualizing Model Performance
+   1. 
 9. Evidence and Probabilities
 10. c
 
