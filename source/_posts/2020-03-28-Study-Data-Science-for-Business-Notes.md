@@ -172,9 +172,18 @@ Foster Provost and Tom Fawcett, Data Science for Business: What you need to know
       2. b(predicted, actual)
    4. Evaluation, Baseline Performance, and Implications for Investments in Data
 8. Visualizing Model Performance
-   1. 
+   1. Profit Curves
+      1. class priors
+      2. costs and benefits
+   2. Receiver Operating Characteristics (ROC) Graphs and Curves
+   3. Cumulative Response Curves (Lift Curves)
+   4. Evaluating Learning Algorithms: A Classification Perspective (Japkowicz & Shah, 2011)
 9. Evidence and Probabilities
-10. c
+10. Representing and Mining Text
+11. Decision Analytic Thinking II: Toward Analytical Engineering
+12. Other Data Science Tasks and Techniques
+13. Data Science and Business Strategy
+14. Conclusion
 
 * Understanding Data and the Data Mining Process
 * Exploring and Visualizing Data
