@@ -179,6 +179,14 @@ Foster Provost and Tom Fawcett, Data Science for Business: What you need to know
    3. Cumulative Response Curves (Lift Curves)
    4. Evaluating Learning Algorithms: A Classification Perspective (Japkowicz & Shah, 2011)
 9. Evidence and Probabilities
+   1. Combining Evidence Probabilistically
+      1. Joint Probability and Independence
+      2. Bayes’ Rule - [Notes](https://www.cnblogs.com/pegasus923/p/10470230.html)
+   2. Applying Bayes’ Rule to Data Science
+      1. Conditional Independence and Naive Bayes
+      2. Advantages and Disadvantages of Naive Bayes
+   3. A Model of Evidence “Lift”
+   4. Example: Evidence Lifts from Facebook “Likes”
 10. Representing and Mining Text
 11. Decision Analytic Thinking II: Toward Analytical Engineering
 12. Other Data Science Tasks and Techniques
