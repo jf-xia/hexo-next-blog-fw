@@ -188,10 +188,49 @@ Foster Provost and Tom Fawcett, Data Science for Business: What you need to know
    3. A Model of Evidence “Lift”
    4. Example: Evidence Lifts from Facebook “Likes”
 10. Representing and Mining Text
+    1. Representation
+        1. Bag of Words
+        2. Term Frequency
+        3. Inverse document frequency (IDF) & TFIDF
+    2. The Relationship of IDF to Entropy ?
+    3. Beyond Bag of Words
+       1. N-gram Sequences
+       2. Named Entity Extraction
 11. Decision Analytic Thinking II: Toward Analytical Engineering
+    1. The Expected Value Framework: Decomposing the Business Problem and Recomposing the Solution Pieces
+    2. The Expected Value Framework: Structuring a More Complicated Business Problem
+       1. value of targeting
+       2. From an Expected Value Decomposition to a Data Science Solution
 12. Other Data Science Tasks and Techniques
+    1. Co-occurrences and Associations: Finding Items That Go Together
+    2. Profiling: Finding Typical Behavior
+       1. Gaussian Mixture Model (GMM)
+    3. Link Prediction and Social Recommendation
+       1. multivariate similarity
+    4. Data Reduction, Latent Information, and Movie Recommendation
+       1. regularization
+    5. Bias, Variance, and Ensemble Methods
+       1. k-NN prediction
+       2. inherent randomness, learning curves
+    6. Data-Driven Causal Explanation and a Viral Marketing Example
+       1. Causal explanation
+       2. Causal data analysis
 13. Data Science and Business Strategy
+    1. Thinking Data-Analytically, Redux
+    2. Achieving Competitive Advantage with Data Science
+    3. Sustaining Competitive Advantage with Data Science
+    4. Attracting and Nurturing Data Scientists and Their Teams
+    5. Be Ready to Accept Creative Ideas from Any Source
+    6. Be Ready to Evaluate Proposals for Data Science Projects
+    7. A Firm’s Data Science Maturity
 14. Conclusion
+    1. The Fundamental Concepts of Data Science
+    2. “What Data Can’t Do” (Brooks, 2013) New York Times
+    3. Privacy, Ethics, and Mining Data About Individuals
+    4. ACM SIGKDD International Conference on Data Mining and Knowledge Discovery
+    5. IEEE International Conference on Data Mining
+    6. Final Example: From Crowd-Sourcing to Cloud-Sourcing
+       1. Amazon Mechanical Turk (MTurk)
 
 * Understanding Data and the Data Mining Process
 * Exploring and Visualizing Data
