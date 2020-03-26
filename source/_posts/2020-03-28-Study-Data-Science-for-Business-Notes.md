@@ -6,7 +6,6 @@ tags: ["Notes","Study"]
 ---
 
 Foster Provost and Tom Fawcett, Data Science for Business: What you need to know about data mining and data-analytic thinking, O'Reilly Media; 1 edition (August 16, 2013)
-[Notes](https://www.studeersnel.nl/nl/document/technische-universiteit-eindhoven/business-analytics-decision-support/samenvattingen/summary-data-science-for-business/3274615/view)
 
 1. Introduction: Data-Analytic Thinking
    1. Data science: a set of fundamental principles that guide the extraction of knowledge from data
