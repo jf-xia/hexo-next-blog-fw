@@ -11,36 +11,36 @@ tags: ["Notes","Study"]
 
 ### 有用的网页链接
 
-- [www.kaggle.com](www.kaggle.com) - 人际网络、大数据分析竞赛、找工作可能是目前有关于数据科学家和机器学习专家的最流行的网站。一定要记得把它添加进入你的浏览器收藏夹
-- [www.linkedin.com](www.linkedin.com) - 人际网络、找工作、在线简历最流行的社交平台之一，适合于各种工作各种级别的人加入。有很多领域内小组，并且可以在上面遇到其他的数据科学家并向他们学习
-- [www.datasciencecentral.com](www.datasciencecentral.com) - 文章、找工作、人际网络、新闻、背景知识也是最流行的一个高质量数据科学网站。对于数据科学专家和新手都很适合，是一个非常好的寻找灵感和技术的地方
-- [www.coursera.com](www.coursera.com) - 在线学习、人际网络是目前最流行的在线教育平台，由斯坦福大学的一群教授建立。上边有一些有关于数据科学的课程，在每一个课程的论坛中，你可以找到一些其他志同道合的人
-- [datascience01.wordpress.com](datascience01.wordpress.com) - 新闻一个适合新人找到最新领域内新闻的地方
-- [cran.rproject.org](cran.rproject.org) - R、新闻、软件一个熟悉R语言开发流程的好地方，并且可以轻松下载各种R包进行开发
-- [www.indeed.com](www.indeed.com) - 找工作、在线简历最著名的招聘网站
-- [whatsthebigdata.com](whatsthebigdata.com) - 新闻、背景知识、文章、大数据一个可以很好地拓展自己的大数据领域知识，并且可以发现最多目前的前沿技术发展情况的地方
-- [www.bigdatauniversity.com](www.bigdatauniversity.com) - 在线学习、大数据最好的获得数据技术专业知识和资源的地方，由IBM创建与维护
-- [www.rproject.org](www.rproject.org) - R、新闻、软件适合开发者经常浏览的，充满了大量流行的大数据分析方法的开源平台
-- [www.eclipse.org](www.eclipse.org) - Eclipse、新闻、软件最流行的一个面向对象编程语言集成开发平台
-- [Hadoop.apache.org](Hadoop.apache.org) - 大数据、Hadoop软件最流行的大数据技术平台
-- [www.careerealism.com](www.careerealism.com) - 找工作一个充满了很多找工作教程和指导资源的网站
-- [stackoverflow.com](stackoverflow.com) - 技术问题一个可以找到各种技术问题的解决方案的地方（例如R语言）
-- [coursetalk.org](coursetalk.org) - 在线学习一个适合学生们找到各种各样的课程进行学习的在线教育平台，并且学生们可以评价他们选择过的课程
-- [www.edX.org](www.edX.org) - 在线学习一个可以提供不同课题的大数据课程的在线教育平台
-- [www.classcentral.com](www.classcentral.com) - 在线学习一个可以从不同的在线教育平台找到各种课程资源的网站，例如Coursera、edX等
-- [www.technicspub.com](www.technicspub.com) - 线下学习一个可以找到各种技术书籍的网站
-- [www.java.com](www.java.com) - 面向对象编程、Java、软件目前世界上最流行的面向对象编程语言之一
-- [www.python.org](www.python.org) - 面向对象编程、Python、Software目前世界上最流行的面向对象编程语言之一
-- [www.gnu.org/software/octave](www.gnu.org/software/octave) - 面向对象编程、Octave、软件目前最流行的一个开源数据分析平台之一，与Matlab非常类似
-- [www.mathworks.com/matlabcentral](www.mathworks.com/matlabcentral) - 面向对象编程、Matlab、软件目前非常流行的一个数据分析平台
-- [www.tableausoftware.com](www.tableausoftware.com) - 数据可视化、软件目前最流行的一种可视化软件
-- [ibm infosphere biginsights](www.1.ibm.com/software/data/infosphere/biginsights) - 大数据、软件IBM开发的一个非常适于处理大数据的平台（基于Hadoop）
-- [gitscm.com](gitscm.com) - 版本控制、软件一个非常流行的用来控制软件或者程序版本的网站
-- [www.oracle.com](www.oracle.com) - 数据库管理、软件目前世界上最流行的一个数据库
-- [www.datascience201.com](www.datascience201.com?kid=21QD6) - 在线学习一个可以找到很多学习数据科学的各种有趣资源的地方，主要针对数据新手
-- [www.udacity.com](www.udacity.com) - 在线学习一个可以提供大量数据科学课题学习的在线学习平台
-- [www.cs.toronto.edu](www.cs.toronto.edu/~hinton) - 个人目前世界上最著名的一个数据科学家的主页
-- [www.meetup.com](www.meetup.com) - 人际网络、线下学习目前最好的一个基于线下自组织团体的社交平台。上面有很多专业的团队，非常适合用来建立人际网络以及寻找教育资源
+- [www.kaggle.com](http://www.kaggle.com) - 人际网络、大数据分析竞赛、找工作可能是目前有关于数据科学家和机器学习专家的最流行的网站。一定要记得把它添加进入你的浏览器收藏夹
+- [www.linkedin.com](http://www.linkedin.com) - 人际网络、找工作、在线简历最流行的社交平台之一，适合于各种工作各种级别的人加入。有很多领域内小组，并且可以在上面遇到其他的数据科学家并向他们学习
+- [www.datasciencecentral.com](http://www.datasciencecentral.com) - 文章、找工作、人际网络、新闻、背景知识也是最流行的一个高质量数据科学网站。对于数据科学专家和新手都很适合，是一个非常好的寻找灵感和技术的地方
+- [www.coursera.com](http://www.coursera.com) - 在线学习、人际网络是目前最流行的在线教育平台，由斯坦福大学的一群教授建立。上边有一些有关于数据科学的课程，在每一个课程的论坛中，你可以找到一些其他志同道合的人
+- [datascience01.wordpress.com](http://datascience01.wordpress.com) - 新闻一个适合新人找到最新领域内新闻的地方
+- [cran.rproject.org](http://cran.rproject.org) - R、新闻、软件一个熟悉R语言开发流程的好地方，并且可以轻松下载各种R包进行开发
+- [www.indeed.com](http://www.indeed.com) - 找工作、在线简历最著名的招聘网站
+- [whatsthebigdata.com](http://whatsthebigdata.com) - 新闻、背景知识、文章、大数据一个可以很好地拓展自己的大数据领域知识，并且可以发现最多目前的前沿技术发展情况的地方
+- [www.bigdatauniversity.com](http://www.bigdatauniversity.com) - 在线学习、大数据最好的获得数据技术专业知识和资源的地方，由IBM创建与维护
+- [www.rproject.org](http://www.rproject.org) - R、新闻、软件适合开发者经常浏览的，充满了大量流行的大数据分析方法的开源平台
+- [www.eclipse.org](http://www.eclipse.org) - Eclipse、新闻、软件最流行的一个面向对象编程语言集成开发平台
+- [Hadoop.apache.org](http://Hadoop.apache.org) - 大数据、Hadoop软件最流行的大数据技术平台
+- [www.careerealism.com](http://www.careerealism.com) - 找工作一个充满了很多找工作教程和指导资源的网站
+- [stackoverflow.com](http://stackoverflow.com) - 技术问题一个可以找到各种技术问题的解决方案的地方（例如R语言）
+- [coursetalk.org](http://coursetalk.org) - 在线学习一个适合学生们找到各种各样的课程进行学习的在线教育平台，并且学生们可以评价他们选择过的课程
+- [www.edX.org](http://www.edX.org) - 在线学习一个可以提供不同课题的大数据课程的在线教育平台
+- [www.classcentral.com](http://www.classcentral.com) - 在线学习一个可以从不同的在线教育平台找到各种课程资源的网站，例如Coursera、edX等
+- [www.technicspub.com](http://www.technicspub.com) - 线下学习一个可以找到各种技术书籍的网站
+- [www.java.com](http://www.java.com) - 面向对象编程、Java、软件目前世界上最流行的面向对象编程语言之一
+- [www.python.org](http://www.python.org) - 面向对象编程、Python、Software目前世界上最流行的面向对象编程语言之一
+- [www.gnu.org/software/octave](http://www.gnu.org/software/octave) - 面向对象编程、Octave、软件目前最流行的一个开源数据分析平台之一，与Matlab非常类似
+- [www.mathworks.com/matlabcentral](http://www.mathworks.com/matlabcentral) - 面向对象编程、Matlab、软件目前非常流行的一个数据分析平台
+- [www.tableausoftware.com](http://www.tableausoftware.com) - 数据可视化、软件目前最流行的一种可视化软件
+- [ibm infosphere biginsights](http://www.1.ibm.com/software/data/infosphere/biginsights) - 大数据、软件IBM开发的一个非常适于处理大数据的平台（基于Hadoop）
+- [gitscm.com](http://gitscm.com) - 版本控制、软件一个非常流行的用来控制软件或者程序版本的网站
+- [www.oracle.com](http://www.oracle.com) - 数据库管理、软件目前世界上最流行的一个数据库
+- [www.datascience201.com](http://www.datascience201.com?kid=21QD6) - 在线学习一个可以找到很多学习数据科学的各种有趣资源的地方，主要针对数据新手
+- [www.udacity.com](http://www.udacity.com) - 在线学习一个可以提供大量数据科学课题学习的在线学习平台
+- [www.cs.toronto.edu](http://www.cs.toronto.edu/~hinton) - 个人目前世界上最著名的一个数据科学家的主页
+- [www.meetup.com](http://www.meetup.com) - 人际网络、线下学习目前最好的一个基于线下自组织团体的社交平台。上面有很多专业的团队，非常适合用来建立人际网络以及寻找教育资源
 
 ### 相关文章
 
