@@ -5,21 +5,26 @@ updated: 2020-09-05 21:09:33
 tags: ["Notes","Study","Lecture"]
 ---
 
-## Introduction Lecture Notes
+# Introduction Lecture Notes
 
-1. key technologies
+## key technologies
+
    1. Internet Infrastructure Technologies
    2. Project Management and Development Life Cycle
    3. Web Design, Implementation and Testing
    4. Mobile and IoT compu8ng services and applications
    5. Computational Intelligence and Machine Learning
-2. comprehensive framework
+
+## comprehensive framework
+
    1. Fundamentals of E-Commerce Security
    2. Electronic Payment Systems
    3. E-Financial Services
    4. Building Smart Cities: an Information System Approach
    5. E-Commerce and Data Science
-3. E-commerce-centric world for me
+
+## E-commerce-centric world for me
+
    1. Case study
       1. the purpose of Puma’s content management system
       2. Alibaba Singles’ Day 2019
@@ -41,7 +46,9 @@ tags: ["Notes","Study","Lecture"]
       3. Society
          1. Organizational culture and training System
          2. SNS Self-media on Facebook, Wechat and etc.
-4. critical thinking and research skills
+
+## critical thinking and research skills
+
    1. Current E-Commerce trends
       1. social technologies, consumer-generated content, and services - negative impacts
       2. Mobile first Design
